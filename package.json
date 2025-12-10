@@ -1,0 +1,16 @@
+{
+  "name": "jakoverse-contracts",
+  "version": "1.0.0",
+  "description": "JAKOVERSE / JAKOVA-NET smart contracts for crypto lands + EBX.",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "devDependencies": {
+    "hardhat": "^3.0.0"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
