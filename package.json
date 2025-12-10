@@ -2,7 +2,6 @@
   "name": "jakoverse-contracts",
   "version": "1.0.0",
   "description": "JAKOVERSE / JAKOVA-NET smart contracts for crypto lands + EBX.",
-  "type": "module",
   "scripts": {
     "test": "echo \"No tests yet\" && exit 0"
   },
