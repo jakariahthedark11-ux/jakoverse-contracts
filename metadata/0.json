@@ -1,0 +1,15 @@
+﻿{
+    "description":  "Jakoverse Lands - Pack 1 (prototype placeholder).",
+    "name":  "Jakoverse Land #0",
+    "attributes":  [
+                       {
+                           "value":  "Jakoverse Lands - Pack 1",
+                           "trait_type":  "Pack"
+                       },
+                       {
+                           "value":  "Prototype",
+                           "trait_type":  "Rarity"
+                       }
+                   ],
+    "image":  "https://raw.githubusercontent.com/jakariahthedark11-ux/jakoverse-contracts/main/images/placeholder.jpg"
+}
