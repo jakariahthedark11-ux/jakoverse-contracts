@@ -9,7 +9,7 @@ module.exports = {
 
   networks: {
     baseSepolia: {
-      // You can fill these later when you want CLI deploys instead of Remix
+      // Fill these if you want CLI deploys instead of Remix
       url: process.env.BASE_RPC_URL || "",
       accounts: process.env.BASE_PRIVATE_KEY
         ? [process.env.BASE_PRIVATE_KEY]
